@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
+///Faster Faster Faster Faster Faster Faster FASTER!!!!!!
+ 
 namespace HomeworkUITests
 {
      public class Footer
