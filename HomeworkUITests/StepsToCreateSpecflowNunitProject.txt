@@ -1,0 +1,17 @@
+https://github.com/techtalk/SpecFlow/issues/1323
+
+Create a class lib project (.net framework)
+
+Packages:
+
+Set options depenency behavour to highest.
+
+SpecFlow 
+SpecFlow.NUnit 
+SpecFlow.Tools.MSBuild.Generation
+NUnit3TestAdapter
+NUnit
+
+Now, added a new SpecFlow Feature file to the unit test project
+
+Clean and build
