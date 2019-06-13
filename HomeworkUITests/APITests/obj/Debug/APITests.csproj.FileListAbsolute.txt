@@ -1,4 +1,3 @@
-C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.csproj.CoreCompileInputs.cache
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\NUnit3.TestAdapter.dll
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\NUnit3.TestAdapter.pdb
@@ -28,6 +27,8 @@ C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\Syst
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\TechTalk.SpecFlow.pdb
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\bin\Debug\Utf8Json.xml
+C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.csproj.CoreCompileInputs.cache
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.csproj.CopyComplete
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.dll
 C:\Users\Chris\Desktop\Homewwork\UITests\HomeworkUITests\APITests\obj\Debug\APITests.pdb

@@ -97,12 +97,8 @@ namespace APITests.StepDefs
         [Given(@"I set body to ""(.*)"" is ""(.*)"" and ""(.*)"" is ""(.*)""")]
         public void GivenISetBodyToIsAndIs(string val1, string val2, string val3, string val4)
         {
-           
-            context.Set<IRestRequest>(context.Get<IRestRequest>("Request").AddJsonBody(new
-            {
-                name = val2,
-                job = val4
-            }), "Request");
+            context.Set<IRestRequest>(context.Get<IRestRequest>("Request").AddParameter(val1, val2), "Request");
+            context.Set<IRestRequest>(context.Get<IRestRequest>("Request").AddParameter(val3, val4), "Request");
         }
 
         [Given(@"Set the Request Type as Put")]
